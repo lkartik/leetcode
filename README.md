@@ -1,2 +1,1 @@
-# leetcode
 Leisure time coding
